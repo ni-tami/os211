@@ -1,1 +1,15 @@
+title: OS 2021-1
+description: OS 2021-1 Github Page by Nitami
 theme: jekyll-theme-slate
+
+# to change
+collections:
+  assignments:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignments"
