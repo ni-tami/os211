@@ -17,9 +17,9 @@ ZCZC W01 2 L11 Assignment #1
 ZCZC W01 90 L12 Assignment #2
 ZCZC W01 60 L13 Assignment #3
 ZCZC W01 10 L14 Assignment #4
-ZCZC W01  L15 Assignment #5
+ZCZC W01 15 L15 Assignment #5
 ZCZC W01 5 L16 Assignment #6
-ZCZC W01  L17 Assignment #7
-ZCZC W01  L18 Assignment #8
+ZCZC W01 10 L17 Assignment #7
+ZCZC W01 8 L18 Assignment #8
 ZCZC W01 360 L19 Assignment #9
 ZCZC W01 15 L23 Discord: discussion, etc.
