@@ -1,6 +1,6 @@
 # Operating Systems 2021 - 1
 
-[Home]() | 
+[Home](../os211/) | 
 [Week1](w01) | 
 [Week2](w02) | 
 [Week3](w03) | 
@@ -11,8 +11,8 @@
 [Week8](w08) | 
 [Week9](w09) | 
 [Week10](w10) | 
-[Rank]() | 
-[Log](TXT/mylog.txt)
+[Rank](../os211/TXT/myrank.txt) | 
+[Log](../os211/TXT/mylog.txt)
 
 ## About
 Name: Niti Cahyaning Utami  
