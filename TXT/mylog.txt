@@ -10,6 +10,7 @@ ZCZC W00 5 L11 Assignment #1
 ZCZC W00 10 L12 Assignment #2
 ZCZC W00 15 L13 Assignment #3
 ZCZC W00 5 L14 Assignment #4
+
 ZCZC W01 17 L21 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 100 L02 Zoom related
 ZCZC W01 60 L05 GSGS Related
@@ -24,3 +25,15 @@ ZCZC W01 20 L17 Assignment #7
 ZCZC W01 8 L18 Assignment #8
 ZCZC W01 330 L19 Assignment #9
 ZCZC W01 15 L23 Discord: discussion, etc.
+
+ZCZC W02 90 L02 Zoom Related
+ZCZC W02 50 L05 GSGS Related
+ZCZC W02 150 L11 Assignment #1
+ZCZC W02 20 L12 Assignment #2
+ZCZC W02 3 L13 Assignment #3
+ZCZC W02 3 L14 Assignment #4
+ZCZC W02 3 L15 Assignment #5
+ZCZC W02 15 L16 Assignment #6
+ZCZC W02 1 L18 Assignment #8
+ZCZC W02 3 L19 Assignment #9
+ZCZC W02 2 L20 Assignment #10
