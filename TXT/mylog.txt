@@ -27,13 +27,14 @@ ZCZC W01 330 L19 Assignment #9
 ZCZC W01 15 L23 Discord: discussion, etc.
 
 ZCZC W02 90 L02 Zoom Related
-ZCZC W02 50 L05 GSGS Related
+ZCZC W02 120 L05 GSGS Related
 ZCZC W02 150 L11 Assignment #1
 ZCZC W02 20 L12 Assignment #2
 ZCZC W02 3 L13 Assignment #3
 ZCZC W02 3 L14 Assignment #4
 ZCZC W02 3 L15 Assignment #5
 ZCZC W02 15 L16 Assignment #6
+ZCZC W02 60 L17 Assignment #7
 ZCZC W02 1 L18 Assignment #8
 ZCZC W02 3 L19 Assignment #9
 ZCZC W02 2 L20 Assignment #10
