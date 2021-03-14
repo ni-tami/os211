@@ -11,6 +11,7 @@
 [Week8](w08) | 
 [Week9](w09) | 
 [Week10](w10) | 
+[Key](../os211/TXT/mypubkey.txt) | 
 [Rank](../os211/TXT/myrank.txt) | 
 [Log](../os211/TXT/mylog.txt)
 
