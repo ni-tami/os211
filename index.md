@@ -1,19 +1,23 @@
+---
+permalink: /
+---
+
 # Operating Systems 2021 - 1
 
-[Home](../os211/) | 
-[Week1](w01) | 
-[Week2](w02) | 
-[Week3](w03) | 
-[Week4](w04) | 
-[Week5](w05) | 
-[Week6](w06) | 
-[Week7](w07) | 
-[Week8](w08) | 
-[Week9](w09) | 
-[Week10](w10) | 
-[Key](../os211/TXT/mypubkey.txt) | 
-[Rank](../os211/TXT/myrank.txt) | 
-[Log](../os211/TXT/mylog.txt)
+[Home]() | 
+[Week1](W01/) | 
+[Week2](W02/) | 
+[Week3](W03/) | 
+[Week4](W04/) | 
+[Week5](W05/) | 
+[Week6](W06/) | 
+[Week7](W07/) | 
+[Week8](W08/) | 
+[Week9](W09/) | 
+[Week10](W10/) | 
+[Key](TXT/mypubkey.txt) | 
+[Rank](TXT/myrank.txt) | 
+[Log](TXT/mylog.txt)
 
 ## About
 Name: Niti Cahyaning Utami  
