@@ -35,18 +35,24 @@ for II in $HOME/RESULT/myW*.tar.bz2.asc $HOME/RESULT/fakeDODOL ; do
    [ -f $II ] && mv -f $II .
 done
 
+# removes previous checksum and signed sum
 echo "rm -f $SHA $SHA.asc"
 rm -f $SHA $SHA.asc
 
+# create checksum
 echo "sha256sum $FILES > $SHA"
 sha256sum $FILES > $SHA
 
+# verify file integrity
 echo "sha256sum -c $SHA"
 sha256sum -c $SHA
 
+# detached sign with ascii represetation of $SHA 
+# and output to $SHA.asc
 echo "gpg -o $SHA.asc -a -sb $SHA"
 gpg -o $SHA.asc -a -sb $SHA
 
+# verify $SHA with $SHA.asc
 echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
 
