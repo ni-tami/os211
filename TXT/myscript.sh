@@ -16,22 +16,30 @@ FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
 
 [ -d $HOME/RESULT ] || mkdir -p $HOME/RESULT
+# push directory
 pushd $HOME/RESULT
+
 for II in W?? ; do
+    # pass if no files matching W??
     [ -d $II ] || continue
     TARFILE=my$II.tar.bz2
     TARFASC=$TARFILE.asc
     rm -f $TARFILE $TARFASC
     echo "tar cfj $TARFILE $II/"
+    # create tar, list filename, filter archive through bzip2
     tar cfj $TARFILE $II/
+    # encrypt tarfile and set recipient, armored
     echo "gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE"
     gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE
 done
+
+# pop directory
 popd
 
 rm -f $HOME/RESULT/fakeDODOL
 for II in $HOME/RESULT/myW*.tar.bz2.asc $HOME/RESULT/fakeDODOL ; do
    echo "Check and move $II..."
+   # move encrypted armored tars if exist to current dir (os211/TXT/)
    [ -f $II ] && mv -f $II .
 done
 
