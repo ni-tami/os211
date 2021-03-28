@@ -46,4 +46,8 @@ ZCZC W03 90 L06 Reading References/Books/Documents
 ZCZC W03 30 L15 Assignment #5
 ZCZC W03 30 L17 Assignment #7
 ZCZC W03 20 L10 Assignment (General)
-
+ZCZC W04 90 L02 ZOOM related
+ZCZC W04 125 L11 Assignment #1
+ZCZC W04 45 L10 Assignment (General) 
+ZCZC W04 180 L05 GSGS Related
+ZCZC W04 30 L06 Reading References/Books/Documents
