@@ -2,6 +2,7 @@
 # Copyright (C) 2020-2021 Cicak Bin Kadal
 # https://www.youtube.com/watch?v=KAXK07ni9gU
 
+# REV05 Sat 27 Mar 00:12:28 WIB 2021
 # REV04 Mon 15 Mar 19:27:52 WIB 2021
 # REV03 Sun 14 Mar 18:21:27 WIB 2021
 # REV02 Fri 12 Mar 13:40:58 WIB 2021
@@ -37,7 +38,7 @@ done
 popd
 
 rm -f $HOME/RESULT/fakeDODOL
-for II in $HOME/RESULT/myW*.tar.bz2.asc $HOME/RESULT/fakeDODOL ; do
+for II in $HOME/RESULT/myW*.tar.bz2.asc ; do
    echo "Check and move $II..."
    # move encrypted armored tars if exist to current dir (os211/TXT/)
    [ -f $II ] && mv -f $II .
