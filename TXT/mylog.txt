@@ -56,3 +56,9 @@ ZCZC W05 30 L11 Assignment #1
 ZCZC W05 30 L10 Assignment (General) 
 ZCZC W05 200 L05 GSGS Related
 ZCZC W05 60 L06 Reading References/Books/Documents
+ZCZC W06 100 L02 ZOOM related
+ZCZC W06 150 L11 Assignmnet #1
+ZCZC W06 180 L05 GSGS Related
+ZCZC W06 40 L10 Assignment (General)
+ZCZC W06 20 L22 Youtube: study
+ZCZC W06 20 L07 Demo related
