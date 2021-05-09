@@ -67,3 +67,8 @@ ZCZC W07 20 L10 Assignment (General)
 ZCZC W07 60 L11 Assignmnet #1
 ZCZC W07 30 L05 GSGS Related
 ZCZC W07 150 L06 Reading References/Books/Documents
+ZCZC W08 100 L02 ZOOM related
+ZCZC W08 30 L05 GSGS Related
+ZCZC W08 120 L06 Reading References/Books/Documents
+ZCZC W08 20 L10 Assignment (General)
+ZCZC W08 30 L11 Assignmnet #1

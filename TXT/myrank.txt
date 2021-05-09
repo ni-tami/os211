@@ -17,3 +17,6 @@ ZCZC W05 nofamex
 ZCZC W06 Originica
 ZCZC W06 prajnapras19
 ZCZC W06 radityarestan
+ZCZC W07 Pinatnat
+ZCZC W07 novihdn
+ZCZC W07 rafighabira
